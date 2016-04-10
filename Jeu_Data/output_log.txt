@@ -1,0 +1,88 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6310 Graphics                                                         (ID=0x9802)
+    Vendor:   ATI
+    VRAM:     248 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.513 seconds
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\jordan\Documents\GitHub\JEU STAR WARS\Jeu_Data\Managed\System.dll (this message is harmless)
+NullReferenceException: Object reference not set to an instance of an object
+  at LanguageLanguage.LoadText () [0x00000] in <filename unknown>:0 
+  at LanguageScript.changeLanguage () [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCall.Invoke (System.Object[] args) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.InvokableCallList.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEventBase.Invoke (System.Object[] parameters) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Events.UnityEvent`1[System.Boolean].Invoke (Boolean arg0) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Toggle.Set (Boolean value, Boolean sendCallback) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Toggle.Set (Boolean value) [0x00000] in <filename unknown>:0 
+  at UnityEngine.UI.Toggle.set_isOn (Boolean value) [0x00000] in <filename unknown>:0 
+  at LanguageScript.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+START LANGUAGESETTINGS
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 52.298012 ms
+
+Unloading 38 unused Assets to reduce memory usage. Loaded Objects now: 215.
+Total: 8.171416 ms (FindLiveObjects: 0.123928 ms CreateObjectMapping: 0.067095 ms MarkObjects: 7.412845 ms  DeleteObjects: 0.562021 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.317435 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 211.
+Total: 0.741994 ms (FindLiveObjects: 0.066305 ms CreateObjectMapping: 0.041835 ms MarkObjects: 0.534394 ms  DeleteObjects: 0.096301 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.199032 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 235.
+Total: 1.019059 ms (FindLiveObjects: 0.067884 ms CreateObjectMapping: 0.047361 ms MarkObjects: 0.678846 ms  DeleteObjects: 0.222598 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.226213 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 235.
+Total: 0.691476 ms (FindLiveObjects: 0.062359 ms CreateObjectMapping: 0.037889 ms MarkObjects: 0.572283 ms  DeleteObjects: 0.015787 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.791953 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 8e8 -> priority: 1 
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 848.
+Total: 1.638703 ms (FindLiveObjects: 0.174447 ms CreateObjectMapping: 0.118403 ms MarkObjects: 1.300859 ms  DeleteObjects: 0.042625 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.870774 ms
+
+Unloading 312 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 1.779998 ms (FindLiveObjects: 0.170500 ms CreateObjectMapping: 0.112877 ms MarkObjects: 0.825666 ms  DeleteObjects: 0.667795 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.028531 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 700.
+Total: 2.330969 ms (FindLiveObjects: 0.162607 ms CreateObjectMapping: 0.106563 ms MarkObjects: 2.011279 ms  DeleteObjects: 0.047361 ms)
+
